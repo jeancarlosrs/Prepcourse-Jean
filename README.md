@@ -1,2 +1,1 @@
-# Prepcourse-Jean
-Este es un repositorio del modulo2 del prepcourse de jean
+Este es un proyecto de prueba de como crear un repositorio yclonarlo desde github a mi computadora
